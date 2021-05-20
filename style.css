@@ -816,6 +816,10 @@ color: #273043;
   color: #273043;
 }
 
+img{
+    object-fit: cover; 
+} 
+
 
 
 /* Media Query */
